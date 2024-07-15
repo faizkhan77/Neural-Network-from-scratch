@@ -29,9 +29,9 @@ The results from these tests have been better than expected, especially for a fi
 ## Repository Structure
 
 - `ANN_from_scratch.py`: The main implementation of the Artificial Neural Network.
-- - `notebook/`: Contains Jupyter Notebooks used for testing, training, predicting, and evaluating the neural network.
+- `notebook/`: Contains Jupyter Notebooks used for testing, training, predicting, and evaluating the neural network.
   - `Testing_the_ANN.ipynb`: Notebook on Testing the ANN on Parkison's Disease dataset.
-- `datasets/`: Contains Jupyter Notebooks used for testing, training, predicting, and evaluating the neural network.
+- `datasets/`: Contains datasets you can try.
   - `insurance.csv`: Insurance dataset.
   - `preprocessed_parkinson.csv`: Parkinson's disease dataset.
   - `preprocessed_salaries.csv`: Employee salaries dataset.
@@ -84,5 +84,5 @@ Thanks to Codebasics and other resources for providing excellent learning materi
 
 ## Contact
 
-For any questions or suggestions, please feel free to contact me at [your email address].
+For any questions or suggestions, please feel free to contact me at faizkhan.net7@gmail.com.
 
